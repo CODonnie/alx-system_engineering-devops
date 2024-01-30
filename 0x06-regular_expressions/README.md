@@ -1,1 +1,1 @@
-0x06 regular expressions
+0x06. Regular expression
